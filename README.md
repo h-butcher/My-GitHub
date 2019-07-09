@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/profile-org-name/repo-name.svg?branch=master)](https://travis-ci.org/profile-org-name/repo-name)
+
+
 # My-GitHub
 # Sic amorem gaudia poena devorat at oraque
 
